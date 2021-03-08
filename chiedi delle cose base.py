@@ -1,0 +1,6 @@
+nome = (input("inserisci nome"))
+cognome = (input("inserisci cognome"))
+anno = (input("inserisci l'anno di nascita"))
+eta = (2021 - int (anno))
+print("ti chiami " ,nome,  cognome)
+print("hai ", eta)
